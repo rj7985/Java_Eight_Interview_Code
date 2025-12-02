@@ -11,7 +11,7 @@ public class First_Non_RepeatingChar_IN_String {
 		//Given a String, find the first non-repeated 
 		//character in it using Stream functions.
 		
-		String s="abcdaabfksijfibc";
+		4
 		
 		Character firstNonRepeated =s.chars()
 				.mapToObj(c->(char)c)
